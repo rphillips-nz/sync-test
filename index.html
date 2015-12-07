@@ -17,7 +17,7 @@ title: Newa
     <img class="gallery-item-image" src="/siteicon.png" alt="banana">
 </p>
 
-<div id="gallery" class="gallery-list js-masonry">
+<div id="gallery" class="gallery-list js-masonry"> 
 	{% for picture in site.pictures %}
 		<a class="gallery-item" href="{{ picture.url | prepend: site.baseurl }}">
 			<img class="gallery-item-image" src="{{ picture.image_path }}" alt="{{ picture.title }}">
