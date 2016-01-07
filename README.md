@@ -1,3 +1,3 @@
 # sync-test
 
-a
+abc github
