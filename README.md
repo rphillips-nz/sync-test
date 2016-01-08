@@ -1,3 +1,3 @@
 # sync-test
 
-abc gh1
+abc cc2
