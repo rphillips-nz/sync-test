@@ -1,6 +1,6 @@
 title: Jekyll gallery by CloudCannon
 author: Ross Phillips
-description: Free images, more appearing every now and then.
+description: Free images, more appearing every now and then
 baseurl: "" # the subpath of your site, e.g. /gallery/
 
 collections:
