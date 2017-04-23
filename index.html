@@ -1,30 +1,5 @@
 ---
 layout: default
-title: Gallery
 ---
 
-<p class="hero">
-	{{ site.description }}
-</p>
-
-<div id="gallery" class="gallery-list js-masonry">
-	{% for picture in site.pictures %}
-		<a class="gallery-item" href="{{ picture.url | prepend: site.baseurl }}">
-			<img class="gallery-item-image" src="{{ picture.image_path }}" alt="{{ picture.title }}">
-			<p class="gallery-item-text">{{ picture.title }}</p>
-		</a>
-	{% endfor %}
-</div>
-
-<script>
-	var gallery = document.querySelector("#gallery"),
-		masonry = new Masonry(gallery, {
-			itemSelector: ".gallery-item",
-			isFitWidth: true,
-			transitionDuration: 0
-		});
-
-	imagesLoaded(gallery, function () {
-		masonry.layout();
-	});
-</script>
+<div class="editable"><p>hi</p><p>&nbsp;</p><p><img alt="" src="/uploads/versions/screen-shot-2015-10-08-at-3-07-09-pm---x----640-480x---.png" width="640" height="480" /></p><p>&nbsp;</p><p><img alt="" src="/uploads/versions/screen-shot-2015-10-08-at-3-08-09-pm---x----640-480x---.png" width="640" height="480" /></p><p>&nbsp;</p></div>
