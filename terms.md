@@ -6,7 +6,7 @@ large_header: false
 show_in_navigation: false
 ---
 
-This is usually where the fine print would go, but here's part of the Wikipedia entry on dogs instead:
+Indeed, this is usually where the fine print would go, but here's part of the Wikipedia entry on dogs instead:
 
 ---
 
