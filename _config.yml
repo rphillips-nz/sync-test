@@ -30,6 +30,10 @@ paginate_path: "/advice/:num/"
 collections:
   staff_members:
     hello: there
+    nested:
+      in: here
+      with:
+        another: one
 
 defaults:
   -
