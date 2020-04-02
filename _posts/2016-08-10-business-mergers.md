@@ -6,6 +6,9 @@ categories:
 author_staff_member: jane-doe
 image: "https://unsplash.it/600/450?image=737&a=.png"
 large_header: false
+thishere:
+  is:
+    nested: yes
 ---
 
 Mergers and acquisitions are transactions in which the ownership of companies, other business organizations or their operating units are transferred or combined.
