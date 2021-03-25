@@ -4,11 +4,10 @@ date: 2016-11-11 00:00:00
 categories:
   - Property
 author_staff_member: john-doe
-image: "https://unsplash.it/600/450?image=448&a=.png"
+image: 'https://unsplash.it/600/450?image=448&a=.png'
 large_header: false
 ---
-
-Flipping is a term used primarily in the US to describe purchasing a revenue-generating asset and quickly reselling it for profit.
+Flipping is a real term used primarily in the US to describe purchasing a revenue-generating asset and quickly reselling it for profit.
 
 The term "flipping" is used by real estate investors to describe "residential redevelopment". Redevelopment of distressed or abandoned properties or neighborhoods has sometimes been linked to malicious and unscrupulous acts in the post housing bubble era. The term "flipping" is frequently used both as a descriptive term for schemes involving market manipulation and other illegal conduct and as a derogatory term for legal real estate investing strategies that are perceived by some to be unethical or socially destructive. In the United Kingdom the term is used to describe a technique whereby Members of Parliament were found to be switching their second home between several houses, which had the effect of allowing them to maximize their taxpayer funded allowances.l
 
@@ -34,9 +33,7 @@ Profits from flipping real estate come from either buying low and selling high (
 
 Under the "fix and flip" scenario, an investor or flipper will purchase a property at a discount price. The discount may be because of:
 
-the property's condition (e.g., the house needs major renovations and/or repairs which the owner either does not want, or cannot afford, to do), or
-the owner(s) needing to sell a property quickly (e.g., relocation, divorce, pending foreclosure).
-The investor will then perform necessary renovations and repairs, and attempt to make a profit by selling the house quickly at a higher price. The "fix and flip" scenario is profitable to investors because the average homebuyer lacks the time and funds to repairs and renovations, so they look for a property that is ready to move into. Also, most traditional mortgage lenders require the home to be habitable with no significant repairs.
+the property's condition (e.g., the house needs major renovations and/or repairs which the owner either does not want, or cannot afford, to do), or the owner(s) needing to sell a property quickly (e.g., relocation, divorce, pending foreclosure). The investor will then perform necessary renovations and repairs, and attempt to make a profit by selling the house quickly at a higher price. The "fix and flip" scenario is profitable to investors because the average homebuyer lacks the time and funds to repairs and renovations, so they look for a property that is ready to move into. Also, most traditional mortgage lenders require the home to be habitable with no significant repairs.
 
 ![](https://unsplash.it/960/350?image=442){: width="960" height="350"}
 
