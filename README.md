@@ -1,6 +1,6 @@
 # Justice
 a
-aaaaaaaaaaaaaaAaaa
+aaaaaaaaaaaaaaAaaaa
 Law firm themed busainess template for Jekyll. Browse through a [live demo](https://grey-grouse.cloudvent.net/).
 Increase the web presence of a law firm or business with this configurable theme.
 
