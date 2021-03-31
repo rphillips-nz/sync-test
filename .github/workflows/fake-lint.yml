@@ -6,5 +6,5 @@ jobs:
     name: Fake Lint
     runs-on: ubuntu-latest
     steps:
-#     - uses: actions/checkout@master
+      - uses: actions/checkout@main
       - run: script/lint "$GITHUB_SHA" "$GITHUB_REF"
