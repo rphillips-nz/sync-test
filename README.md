@@ -1,7 +1,7 @@
 # Justice
 
 aa
-
+a
 Law firm themed business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
 Increase the web presence of a law firm or business with this configurable theme.
 
