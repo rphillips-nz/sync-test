@@ -22,6 +22,8 @@ enableRobotsTXT = true
   images = ["siteicon.png"]
   title = "Justice Template"
 
+[params.cloudcannon.data]
+  authors = true
 [params._selectData]
   call_to_actions = ["Contact", "Blog", "Map"]
   social_icons = ["Facebook", "Instagram", "LinkedIn", "Pinterest", "Tumblr", "Twitter", "YouTube", "RSS"]
