@@ -1,5 +1,5 @@
 ---
-title: Abouta
+title: Aboutaa
 call_to_action: Contact
 large_header: false
 type: about
