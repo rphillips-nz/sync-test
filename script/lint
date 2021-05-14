@@ -1,7 +1,0 @@
-#!/bin/sh
-
-RET=0
-
-echo "This is always good"
-
-exit $RET
