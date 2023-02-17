@@ -1,0 +1,26 @@
+
+collections_config:
+  pages:
+    output: true
+    filter: strict
+    parse_branch_index: true
+    path: content
+  posts:
+    path: content/posts
+    output: true
+  data:
+    output: false
+    path: data
+
+
+commit_templates:
+  - template_string: "{commit_type}: {message|trim}"
+    _inputs:
+      commit_type:
+        type: select
+        options:
+          values:
+            - feature
+            - fix
+            - refactor
+
