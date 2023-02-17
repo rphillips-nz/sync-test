@@ -12,7 +12,6 @@ collections_config:
     output: false
     path: data
 
-a
 commit_templates:
   - template_string: "{commit_type|default='unknown'}: {message|trim|default='Edited in CloudCannon'}"
     _inputs:
