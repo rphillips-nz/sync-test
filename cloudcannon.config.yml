@@ -1,0 +1,10 @@
+commit_templates:
+  - template_string: "{commit_type}: {message|trim}"
+    _inputs:
+      commit_type:
+        type: select
+        options:
+          values:
+            - feature
+            - fix
+            - refactor
